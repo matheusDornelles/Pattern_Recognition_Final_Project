@@ -1,5 +1,5 @@
-# Missing Data Handling Final Project
-
+# Pattern Recognition Final Project
+Bishop's University Master's in Computer Science.
 This project demonstrates different methods for handling missing data, focusing on imputation-based approaches.
 
 ## Project Structure
@@ -66,4 +66,4 @@ See the notebooks in the `notebooks/` directory for detailed examples and demons
 
 ## Author
 
-Final Project - Missing Data Handling
+Final Project - Gabriel Fernandes, Matheus Dornelles, Jose Navarro
