@@ -63,7 +63,3 @@ See the notebooks in the `notebooks/` directory for detailed examples and demons
 - Support for both numerical and categorical data
 - Visualization tools for comparing methods
 - Test data generation utilities
-
-## Author
-
-Final Project - Missing Data Handling
